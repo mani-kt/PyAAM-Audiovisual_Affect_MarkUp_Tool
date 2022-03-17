@@ -1,0 +1,5 @@
+numpy
+python-vlc
+tk
+tkvideoplayer
+screeninfo
